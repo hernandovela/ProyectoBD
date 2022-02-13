@@ -1,3 +1,4 @@
 Elaborado por : Hernando Vela
 # ProyectoBD
-Se debe descargar la base de "dbo.sql" e importarla en Mysql.  
+Instalar Mysql para la base datos
+Importar el proyecto base de datos "dbo.sql" desde la URL "https://github.com/hernandovela/ProyectoBD"
